@@ -1,0 +1,10 @@
+# 源码目录（保留构建产物）
+Kimi_Agent_*/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 编辑器
+.vscode/
+.idea/
